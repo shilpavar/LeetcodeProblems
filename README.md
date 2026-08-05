@@ -139,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Shilpav13/LeetcodeProblems/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
